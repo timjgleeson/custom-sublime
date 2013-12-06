@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+@include modifier(${1}){ //header element
+  $0
+}
+]]></content>
+  <!-- Optional: Set a tabTrig\1r to define how to trigger the snippet -->
+  <tabTrigger>el</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.sass</scope>
+</snippet>
