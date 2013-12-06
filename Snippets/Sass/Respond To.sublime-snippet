@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-@include respond-to(\$${1}-Mq}) {
+@include respond-to(\$mq--${1}}) {
   $0
 }
 ]]></content>
